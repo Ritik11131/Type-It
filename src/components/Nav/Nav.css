@@ -1,0 +1,42 @@
+.nav-container{
+    display: flex;
+    height :80px;
+    align-items: center;
+    background:rgba(46,34,123,0.94);
+    margin:0;
+    justify-content: space-between;
+    box-shadow: 0px 11px 35px 11px rgba(46,34,123,0.94);
+-webkit-box-shadow: 0px 11px 35px 11px rgba(46,34,123,0.94);
+-moz-box-shadow: 0px 11px 35px 11px rgba(46,34,123,0.94);
+}
+
+.nav-left{
+    display: flex;
+    align-items: center;
+}
+
+.flash-logo{
+    margin-left: 5px;
+    height: 80px;
+}
+
+.flash-logo-text{
+    color:cornsilk;
+    font-family:'Teko', sans-serif;
+    font-size: 35px;
+    margin: 0 40px;
+    letter-spacing: 6px;
+    
+}
+.nav-right{
+    margin-right:30px;
+    font-family:'Teko', sans-serif;
+    font-size: 30px;
+    
+    
+}
+.nav-aaa-link{
+    text-decoration: none;
+    font-weight: 500;
+    color: darkgrey;
+}

@@ -1,0 +1,17 @@
+.test-letter{
+    font-size: 20px;
+    line-height: 20px;
+    font-family: 'Teko', sans-serif;;
+
+}
+
+.test-letter-correct{
+    color: #558b2f;
+}
+.test-letter-incorrect{
+    color:#bf360c;
+}
+
+.test-letter-not-attempted{
+    color:black;
+}

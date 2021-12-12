@@ -1,0 +1,67 @@
+.typing-challenge{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.time-container{
+    margin:16px;
+}
+
+.timer{
+    font-size: 48px;
+    font-weight: 600;
+    margin:70px;
+    text-align: center;
+}
+
+.timer-info{
+    
+    margin-top:5px;
+    color:cornsilk;
+    font-size: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Teko', sans-serif; 
+}
+.textarea-container{
+    margin:16px;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    width:80%;
+}
+
+.textarea-left,
+.textarea-right{
+    display: flex;
+    width: 50%;
+    flex-grow: 1;
+}
+
+.textarea{
+    text-align: left;
+    flex-grow: 1;
+    height: 400px;
+    width:100%;
+    padding: 10px;
+    line-height: 18px;
+    flex-wrap: wrap;
+    overflow: scroll;
+
+}
+
+.textarea::-webkit-scrollbar{
+    display:none;
+}
+.textarea{
+    scrollbar-width: none;
+}
+
+.test-paragraph{
+    font-size: 12px;
+    background: #e9e7e4;
+    padding:12px;
+}

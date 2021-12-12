@@ -1,0 +1,49 @@
+.land-container{
+    display: flex;
+    min-width: 90vh;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    padding: 0 22px;
+    margin:0;
+    flex-wrap: wrap;
+    height:100vh;
+}
+
+.land-header{
+    font-size: 72px;
+    letter-spacing: 4px;
+    margin: 0;
+}
+.typewriter-container{
+    font-size: 64px;
+    margin: 0;
+    letter-spacing: 4px;
+    
+}
+
+.flash-image{
+    width: 40vw;
+}
+ @media (max-width: 800px){
+     .land-container{
+         flex-direction:column;
+         align-items: center;
+     }
+
+     .flash-image{
+         width:80vw;
+     }
+
+     .land-header{
+         margin-top:60px;
+         text-align: center;
+     }
+
+     .typewriter-container{
+         text-align: center;
+     }
+ }
+
+
+ 
