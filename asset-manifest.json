@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Type-It/static/css/main.0f3b1420.chunk.css",
+    "main.js": "/Type-It/static/js/main.0fba93be.chunk.js",
+    "main.js.map": "/Type-It/static/js/main.0fba93be.chunk.js.map",
+    "runtime-main.js": "/Type-It/static/js/runtime-main.3c8c4cb4.js",
+    "runtime-main.js.map": "/Type-It/static/js/runtime-main.3c8c4cb4.js.map",
+    "static/js/2.feb69354.chunk.js": "/Type-It/static/js/2.feb69354.chunk.js",
+    "static/js/2.feb69354.chunk.js.map": "/Type-It/static/js/2.feb69354.chunk.js.map",
+    "index.html": "/Type-It/index.html",
+    "static/css/main.0f3b1420.chunk.css.map": "/Type-It/static/css/main.0f3b1420.chunk.css.map",
+    "static/js/2.feb69354.chunk.js.LICENSE.txt": "/Type-It/static/js/2.feb69354.chunk.js.LICENSE.txt",
+    "static/media/back.e291456b.jpg": "/Type-It/static/media/back.e291456b.jpg",
+    "static/media/logo.798d3a78.jpg": "/Type-It/static/media/logo.798d3a78.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c8c4cb4.js",
+    "static/js/2.feb69354.chunk.js",
+    "static/css/main.0f3b1420.chunk.css",
+    "static/js/main.0fba93be.chunk.js"
+  ]
+}
